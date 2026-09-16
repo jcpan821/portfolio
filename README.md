@@ -23,7 +23,7 @@
 
 ---
 
-### 2. Autonomous Object-Retrieval Robot (Senior Graduation Design) (./大學畢業專題.pdf)
+### 2. [Autonomous Object-Retrieval Robot (Senior Graduation Design)] (大學畢業專題.pdf)
 * **Institution**: National Central University (2024)
 * **Role**: Lead Mechanical & Embedded Systems Engineer (Contributed 60% of overall project architecture)
 * **Keywords**: SolidWorks, Mecanum Wheels, Raspberry Pi, OpenCV, STM32, PID Control
@@ -48,14 +48,14 @@
 * **Course Project**: Microcontroller Applications, NCU (2021)
 * **Keywords**: ATmega128, C, 74LS138, 74LS374, Data Bus Sharing, Keypad Polling
 * **Technical Highlights**:
-  * Designed an embedded calculator running on an **ATmega128** MCU written in **C**.
+  * Designed an embedded calculator running on an **AVRM128** MCU written in **C**.
   * Engineered address decoding using 74LS138 (3-to-8 decoders), 74LS374 (data latches), and 74LS245 (bus transceivers) to prevent bus contention across shared Data Bus (PORTD) and Address Bus (PORTB) architectures.
   * Programmed 4x4 matrix keypad polling routines and dynamic multiplexing algorithms driving 4-digit 7-segment displays.
 
 ---
 
 ### 5. AI Exhibition Project: Smart Factory Hand-Motion Robot Control
-* **Event**: AI Project Exhibition, NCU [24]
+* **Event**: AI Project Exhibition, NCU
 * **Keywords**: MediaPipe, NVIDIA Isaac Sim, Gesture Control, Robotic Arm
 * **Technical Highlights**:
   * Developed a low-cost, real-time hand-gesture recognition pipeline using MediaPipe and Python.
@@ -64,7 +64,7 @@
 ---
 
 ### 6. Semiconductor Poster: CMP Endpoint Detection (EPD) Mechanisms
-* **Event**: Semiconductor Industry Exhibition, NCU [25]
+* **Event**: Semiconductor Industry Exhibition, NCU
 * **Keywords**: Chemical-Mechanical Planarization, Optical Sensing, Friction, Acoustic Emission
 * **Technical Highlights**:
   * Analyzed wafer planarization mechanisms and compared Endpoint Detection (EPD) methodologies: Optical reflectance, Friction torque changes, and Acoustic Emission (AE) signal analysis.
