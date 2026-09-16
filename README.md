@@ -34,7 +34,7 @@
 
 ---
 
-### 3. DC Motor Modeling & High-Precision PID Controller Design
+### 3. [DC Motor Modeling & High-Precision PID Controller Design](馬達PID控制器)
 * **Course Project**: Automatic Control II, NCU (2023)
 * **Keywords**: Transfer Function, State-Space, Root Locus Analysis, MATLAB/Simulink
 * **Technical Highlights**:
@@ -44,7 +44,7 @@
 
 ---
 
-### 4. Microcontroller Hardware Calculator with Logic Decoding Architecture
+### 4. [Microcontroller Hardware Calculator with Logic Decoding Architecture](微控制器課程成果報告.pdf)
 * **Course Project**: Microcontroller Applications, NCU (2021)
 * **Keywords**: ATmega128, C, 74LS138, 74LS374, Data Bus Sharing, Keypad Polling
 * **Technical Highlights**:
@@ -54,7 +54,7 @@
 
 ---
 
-### 5. AI Exhibition Project: Smart Factory Hand-Motion Robot Control
+### 5. [AI Exhibition Project: Smart Factory Hand-Motion Robot Control](AI project poster.pdf)
 * **Event**: AI Project Exhibition, NCU
 * **Keywords**: MediaPipe, NVIDIA Isaac Sim, Gesture Control, Robotic Arm
 * **Technical Highlights**:
@@ -63,7 +63,7 @@
 
 ---
 
-### 6. Semiconductor Poster: CMP Endpoint Detection (EPD) Mechanisms
+### 6. [Semiconductor Poster: CMP Endpoint Detection (EPD) Mechanisms](semi-conducter project.pdf)
 * **Event**: Semiconductor Industry Exhibition, NCU
 * **Keywords**: Chemical-Mechanical Planarization, Optical Sensing, Friction, Acoustic Emission
 * **Technical Highlights**:
@@ -73,8 +73,8 @@
 
 ##  Certificates & Credentials
 
-* **TOEIC Official Score Certificate** (多益英語測驗證書)
-* **Academic Exhibition Awards & Posters**: NCU AI Project Exhibition & Semiconductor Industry Poster Presentation [24, 25]
-* **Academic Exhibition certificate**: Equipment - Advanced Technologies of Semiconductor
+* [**TOEIC Official Score Certificate**](多益.pdf)
+* **Academic Exhibition Awards & Posters**: NCU AI Project Exhibition & Semiconductor Industry Poster Presentation
+* [**Academic Exhibition certificate**](應材證書_潘佳成.pdf): Equipment - Advanced Technologies of Semiconductor
 
 ---
