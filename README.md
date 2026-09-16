@@ -34,7 +34,7 @@
 
 ---
 
-### 3. [DC Motor Modeling & High-Precision PID Controller Design](馬達PID控制器)
+### 3. [DC Motor Modeling & High-Precision PID Controller Design](馬達PID控制器.pdf)
 * **Course Project**: Automatic Control II, NCU (2023)
 * **Keywords**: Transfer Function, State-Space, Root Locus Analysis, MATLAB/Simulink
 * **Technical Highlights**:
