@@ -54,7 +54,7 @@
 
 ---
 
-### 5. [AI Exhibition Project: Smart Factory Hand-Motion Robot Control](AI project poster.pdf)
+### 5. [AI Exhibition Project: Smart Factory Hand-Motion Robot Control](<AI project poster.pdf>)
 * **Event**: AI Project Exhibition, NCU
 * **Keywords**: MediaPipe, NVIDIA Isaac Sim, Gesture Control, Robotic Arm
 * **Technical Highlights**:
@@ -63,7 +63,7 @@
 
 ---
 
-### 6. [Semiconductor Poster: CMP Endpoint Detection (EPD) Mechanisms](semi-conducter project.pdf)
+### 6. [Semiconductor Poster: CMP Endpoint Detection (EPD) Mechanisms](<semi-conducter project.pdf>)
 * **Event**: Semiconductor Industry Exhibition, NCU
 * **Keywords**: Chemical-Mechanical Planarization, Optical Sensing, Friction, Acoustic Emission
 * **Technical Highlights**:
