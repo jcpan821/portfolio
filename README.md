@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠 Technical Skills & Tools
+## Technical Skills & Tools
 
 * **Programming**: Python, C, MATLAB
 * **CAD & Mechanical Design**: SolidWorks, AutoCAD, 3D Printing, Rapid Prototyping
@@ -24,11 +24,11 @@
 ---
 
 ### 2. Autonomous Object-Retrieval Robot (Senior Graduation Design)
-* **Institution**: National Central University (2023 – 2024) [1]
-* **Role**: Lead Mechanical & Embedded Systems Engineer (Contributed 60% of overall project architecture) [2]
-* **Keywords**: SolidWorks, Mecanum Wheels, Raspberry Pi, OpenCV, STM32, PID Control [1, 3-5]
+* **Institution**: National Central University (2023 – 2024)
+* **Role**: Lead Mechanical & Embedded Systems Engineer (Contributed 60% of overall project architecture)
+* **Keywords**: SolidWorks, Mecanum Wheels, Raspberry Pi, OpenCV, STM32, PID Control
 * **Technical Highlights**:
-  * **Mechanical Design**: Designed the complete chassis, 10° inclined scoop ramp, 120mm x 160mm ball storage bay, and custom motor brackets using **SolidWorks**, with all structural parts fabricated via 3D printing [1, 3, 6, 7].
+  * **Mechanical Design**: Designed the complete chassis, 120mm x 160mm ball storage bay, and custom motor brackets using **SolidWorks**, with all structural parts fabricated via 3D printing 
   * **Vision Recognition**: Implemented BGR/HSV color masking and Hough Circle Transform on **Raspberry Pi** using **OpenCV** to track ping-pong ball coordinates in real-time [4, 8].
   * **Motion Control**: Programmed an **STM32** MCU with closed-loop **PID velocity control** to drive 4 Mecanum wheels for omnidirectional steering, ball interception, and automatic unloading [1, 4, 5].
 
@@ -75,6 +75,6 @@
 
 * **TOEIC Official Score Certificate** (多益英語測驗證書)
 * **Academic Exhibition Awards & Posters**: NCU AI Project Exhibition & Semiconductor Industry Poster Presentation [24, 25]
-* **
+* **Academic Exhibition certificate**: Equipment - Advanced Technologies of Semiconductor
 
 ---
