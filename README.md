@@ -23,7 +23,7 @@
 
 ---
 
-### 2. Autonomous Object-Retrieval Robot (Senior Graduation Design) (大學畢業專題.pdf)
+### 2. !Autonomous Object-Retrieval Robot (Senior Graduation Design) (大學畢業專題.pdf)
 * **Institution**: National Central University (2024)
 * **Role**: Lead Mechanical & Embedded Systems Engineer (Contributed 60% of overall project architecture)
 * **Keywords**: SolidWorks, Mecanum Wheels, Raspberry Pi, OpenCV, STM32, PID Control
