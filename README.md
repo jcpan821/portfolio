@@ -1,4 +1,4 @@
-# Jia-Cheng Pan | Robotics, Control & Embedded Systems Portfolio
+# Portfolio
 
  welcome to my technical portfolio! I am currently an M.S. student in Power Mechanical Engineering at National Tsing Hua University (NTHU), specializing in robotics, 3D vision, feedback control systems, and embedded hardware development.
 
