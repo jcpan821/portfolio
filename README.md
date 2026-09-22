@@ -3,6 +3,7 @@
 welcome to my technical portfolio! I am currently an M.S. student in Power Mechanical Engineering at National Tsing Hua University (NTHU), specializing in robotics, 3D vision, feedback control systems, and embedded hardware development.
 
 In today’s rapidly evolving engineering landscape, AI models, robotics frameworks, and hardware architectures iterate at an unprecedented pace. The most critical asset of an engineer is not just static textbook knowledge, but autonomous adaptability.
+
 During my microcontroller course, I developed a strong capacity for independent learning and problem-solving through a self-directed curriculum. I learned how to construct a calculator system using logic gates, 74-series digital IC logic decoding, and bus system architectures directly from raw technical documentation and datasheets.
 
 These are the skills I believe I possess to adapt to future workplace challenges.
